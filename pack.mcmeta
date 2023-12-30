@@ -1,0 +1,6 @@
+ {
+       "pack": {
+           "pack_format": 18,
+           "description": "Allows basic operations on player / entity health values"
+       }
+   }
