@@ -1,0 +1,1 @@
+scoreboard players operation @s cw_hp_old += @s hp_max
